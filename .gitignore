@@ -1,1 +1,9 @@
-application.properties 
+target/
+.settings/
+.classpath
+.project
+.factorypath
+*.class
+application.properties
+frontend/node_modules/
+node_modules/
